@@ -1,2 +1,2 @@
 import numpy as np 
-n=np.array
+np.random.randint(10;49, size=10)
